@@ -1,1 +1,2 @@
-python練習"# auto_purchase" 
+# auto_purchase
+python練習
